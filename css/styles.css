@@ -25,9 +25,9 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 72px;
-    align-items: Center;
     vertical-align: Top;
     letter-spacing: -3%;
+    max-width: 378px;
 }
 
 .subscribe-description {
@@ -41,6 +41,7 @@
     margin-right: auto;
     vertical-align: Top;
     letter-spacing: -2%;
+    max-width: 467px
 }
 
 .subscribe-btn {
