@@ -14,3 +14,14 @@
   rgba(0, 0, 0, 0.2)),
     url("../images/background-image/Subcribe.jpg");
 }
+
+.subscribe-title {
+    Font family: Montserrat;
+    Font style: SemiBold;
+    Font size: 24px;
+    Line height: 28px;
+    Line height: 96%;
+    Align: Center;
+    vertical-align: Top;
+    letter-spacing: -3%;
+}
