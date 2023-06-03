@@ -16,12 +16,13 @@
 }
 
 .subscribe-title {
-    Font family: Montserrat;
-    Font style: SemiBold;
-    Font size: 24px;
-    Line height: 28px;
-    Line height: 96%;
-    Align: Center;
+    font-family: Montserrat;
+    font-style: SemiBold;
+    font-size: 24px;
+    line-height: 28px;
+    line-height: 96%;
+    margin-left: auto;
+    margin-right: auto;
     vertical-align: Top;
     letter-spacing: -3%;
 }
