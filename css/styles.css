@@ -26,3 +26,15 @@
     vertical-align: Top;
     letter-spacing: -3%;
 }
+
+.subscribe-description {
+    font-family: Montserrat;
+    font-style: SemiBold;
+    font-size: 14px;
+    line-height: 18px;
+    line-height: 105%;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: Top;
+    letter-spacing: -2%;
+}
