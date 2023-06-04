@@ -1,6 +1,6 @@
-import './js/reviews-slider.js';
-import './js/buy-now-modal';
-import './js/our-products';
-import './js/modals_Sihida';
-import './js/scroll';
-import './js/validate';
+import './src/js/reviews-slider.js';
+import './src/js/buy-now-modal.js';
+import './src/js/our-products.js';
+import './src/js/modals_Sihida.js';
+import './src/js/scroll.js';
+import './src/js/validate.js';
