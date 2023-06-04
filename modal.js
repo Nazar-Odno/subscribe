@@ -1,14 +1,6 @@
-(() => {
-    const refs = {
-      openModalBtn: document.querySelector("[data-modal-open]"),
-      closeModalBtn: document.querySelector("[data-modal-close]"),
-      modal: document.querySelector("[data-modal]"),
-    };
-  
-    refs.openModalBtn.addEventListener("click", toggleModal);
-    refs.closeModalBtn.addEventListener("click", toggleModal);
-  
-    function toggleModal() {
-      refs.modal.classList.toggle("is-hidden");
-    }
-  })();
+import './js/reviews-slider.js';
+import './js/buy-now-modal';
+import './js/our-products';
+import './js/modals_Sihida';
+import './js/scroll';
+import './js/validate';
